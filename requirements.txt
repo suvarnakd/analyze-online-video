@@ -1,0 +1,11 @@
+Deprecated==1.2.14
+img2pdf==0.5.1
+imutils==0.5.4
+lxml==5.1.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+packaging==23.2
+pikepdf==8.12.0
+pillow==10.2.0
+pytube==15.0.0
+wrapt==1.16.0
